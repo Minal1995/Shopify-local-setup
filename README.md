@@ -1,6 +1,6 @@
 <h1>Shopify Theme Development - Local Setup Guide</h1>
 
-  <p>This repository provides instructions to set up and run a Shopify theme locally using the Shopify CLI.</p>
+<p>This repository provides instructions to set up and run a Shopify theme locally using the Shopify CLI.</p>
 
   <div class="section">
     <h2>✅ Requirements</h2>
@@ -23,8 +23,8 @@
 
     <p>Alternatively, using Yarn or pnpm:</p>
     <pre><code>yarn global add @shopify/cli
-# or
-pnpm add -g @shopify/cli</code></pre>
+
+  <code>pnpm add -g @shopify/cli</code>
 
     <h3>2. Connect to your Shopify store</h3>
     <p>Use the following command to start developing your theme locally. Replace <code>your-store-url</code> with your store’s domain (e.g., <code>my-store.myshopify.com</code>):</p>
