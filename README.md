@@ -1,34 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Shopify Theme Development - Local Setup Guide</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      padding: 2rem;
-      background-color: #f9f9f9;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    ul, pre, code {
-      background-color: #f4f4f4;
-      padding: 0.5rem;
-      border-radius: 4px;
-    }
-    pre {
-      white-space: pre-wrap;
-    }
-    .section {
-      margin-bottom: 2rem;
-    }
-  </style>
-</head>
-<body>
-
-  <h1>Shopify Theme Development - Local Setup Guide</h1>
+<h1>Shopify Theme Development - Local Setup Guide</h1>
 
   <p>This repository provides instructions to set up and run a Shopify theme locally using the Shopify CLI.</p>
 
