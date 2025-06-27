@@ -13,3 +13,5 @@
   <li><strong>Git:</strong>v2.28.0 or higher</li>
   <li><strong>Ruby:</strong> (for some CLI features):</li>
 </ul>
+
+sudo apt-get install ruby-full
